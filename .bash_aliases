@@ -1,6 +1,8 @@
 alias sourceb="source ~/.bashrc"
 alias ll="ls -lAH --group-directories-first"
 
+alias pl="cd ~/code/tooling/.dotfiles"
+
 alias tmxk="tmux kill-server"
 bind '"\C-f":"~/.local/bin/tmux-sessionizer\n"'
 
