@@ -2,6 +2,9 @@
 
 holy crap ruuffian dotfiles....
 
+`.bash_local` is where you should put sensitive stuff since it isn't included in
+the repo.
+
 
 ### Tools
 
